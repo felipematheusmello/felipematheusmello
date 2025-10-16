@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">I'm Full Stack Developer from Brazil. Feel free to take a lot in the projects</h3>
+<h3 align="center">I'm Full Stack Developer from Brazil. Feel free to take a look in the projects</h3>
 
 - 🔭 I’m currently working on [Controll the desktop cursor with the smartphone](https://github.com/felipematheusmello/move_websocket_detection / https://github.com/felipematheusmello/PhoneAsMouse)
 
